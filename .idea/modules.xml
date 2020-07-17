@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Switch.iml" filepath="$PROJECT_DIR$/Switch.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/SecondsAndMinutesChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/S&amp;MChallenge.iml" filepath="$PROJECT_DIR$/S&amp;MChallenge.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Abbreviating Operators/Abbreviating Operators.iml" filepath="$PROJECT_DIR$/Abbreviating Operators/Abbreviating Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment Operator VS Equals to Operator/Assignment Operator VS Equals to Operator.iml" filepath="$PROJECT_DIR$/Assignment Operator VS Equals to Operator/Assignment Operator VS Equals to Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Float&amp;Double/Float&amp;Double.iml" filepath="$PROJECT_DIR$/Float&amp;Double/Float&amp;Double.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Floating Point Precision &amp; a Challenge/Floating Point Precision &amp; a Challenge.iml" filepath="$PROJECT_DIR$/Floating Point Precision &amp; a Challenge/Floating Point Precision &amp; a Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Master Class Remaster.iml" filepath="$PROJECT_DIR$/.idea/Java Master Class Remaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logical OR Operator/Logical OR Operator.iml" filepath="$PROJECT_DIR$/Logical OR Operator/Logical OR Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logical and Operator/Logical and Operator.iml" filepath="$PROJECT_DIR$/Logical and Operator/Logical and Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operator Precedence and Operator Challenge/Operator Precedence and Operator Challenge.iml" filepath="$PROJECT_DIR$/Operator Precedence and Operator Challenge/Operator Precedence and Operator Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators, Operands &amp; Expressions/Operators, Operands &amp; Expressions.iml" filepath="$PROJECT_DIR$/Operators, Operands &amp; Expressions/Operators, Operands &amp; Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitive Type/Primitive Type.iml" filepath="$PROJECT_DIR$/Primitive Type/Primitive Type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitive Types Recap and the String Data Type/Primitive Types Recap and the String Data Type.iml" filepath="$PROJECT_DIR$/Primitive Types Recap and the String Data Type/Primitive Types Recap and the String Data Type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveTypeChallenge/PrimitiveTypeChallenge.iml" filepath="$PROJECT_DIR$/PrimitiveTypeChallenge/PrimitiveTypeChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" filepath="$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The char &amp; boolean Primitive Data Types/The char &amp; boolean Primitive Data Types.iml" filepath="$PROJECT_DIR$/The char &amp; boolean Primitive Data Types/The char &amp; boolean Primitive Data Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if-then Statement/if-then Statement.iml" filepath="$PROJECT_DIR$/if-then Statement/if-then Statement.iml" />
+>>>>>>> 1f6953fe1eb41b85952dad71039fd2a21990c973
+>>>>>>> 5bf23e9e0e603a2e80711b663583f9d2c5dc9759
+>>>>>>> 050918491e1dab8ef914dd475806956c3fde8da6
     </modules>
   </component>
 </project>
