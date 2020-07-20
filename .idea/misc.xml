@@ -1,12 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Corretto-11" project-jdk-type="JavaSDK">
+=======
+<<<<<<< HEAD
+>>>>>>> 050918491e1dab8ef914dd475806956c3fde8da6
+>>>>>>> 335ad01d81f5a744b6d4308a23f507cd5b2ce367
+>>>>>>> 4f120d0d0817fc82318b722096302ff098046f10
+>>>>>>> 19e9958cfcfdb6c1eb92bac2273578d778037a65
+>>>>>>> e082b65c4a0b5186710aaf810fcc38dcb64cdaff
   <component name="ProjectKey">
     <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Corretto-11" project-jdk-type="JavaSDK">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+>>>>>>> 1f6953fe1eb41b85952dad71039fd2a21990c973
+>>>>>>> 5bf23e9e0e603a2e80711b663583f9d2c5dc9759
+>>>>>>> 050918491e1dab8ef914dd475806956c3fde8da6
+>>>>>>> 335ad01d81f5a744b6d4308a23f507cd5b2ce367
+>>>>>>> 4f120d0d0817fc82318b722096302ff098046f10
+>>>>>>> 19e9958cfcfdb6c1eb92bac2273578d778037a65
+>>>>>>> e082b65c4a0b5186710aaf810fcc38dcb64cdaff
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
