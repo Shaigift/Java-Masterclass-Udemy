@@ -1,9 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+=======
+<<<<<<< HEAD
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+=======
+<<<<<<< HEAD
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+=======
+<<<<<<< HEAD
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Corretto-11" project-jdk-type="JavaSDK">
+=======
+<<<<<<< HEAD
+>>>>>>> 050918491e1dab8ef914dd475806956c3fde8da6
+>>>>>>> 335ad01d81f5a744b6d4308a23f507cd5b2ce367
+>>>>>>> 4f120d0d0817fc82318b722096302ff098046f10
+>>>>>>> 19e9958cfcfdb6c1eb92bac2273578d778037a65
+>>>>>>> e082b65c4a0b5186710aaf810fcc38dcb64cdaff
+>>>>>>> 92237164ad59d75438ce5e2d51379d249070838e
+>>>>>>> 70964d116034eae30ff77943349d973bc3d874d0
+>>>>>>> 4da91b31094f2998c841b08f038a0ccb6d443113
+>>>>>>> 9fb6a0940a2a1f1a99165fe2e4bae2c45afeb6ab
+>>>>>>> 8e7f22444f7593efe60b40b30936638659f7f31a
+>>>>>>> 4090f8fc2ce911f275d078ddd53a75e1f3667ad9
+>>>>>>> f638018a3f94d93ac07eba48aeca7e5e6a7c8b7f
   <component name="ProjectKey">
     <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Corretto-11" project-jdk-type="JavaSDK">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+>>>>>>> 1f6953fe1eb41b85952dad71039fd2a21990c973
+>>>>>>> 5bf23e9e0e603a2e80711b663583f9d2c5dc9759
+>>>>>>> 050918491e1dab8ef914dd475806956c3fde8da6
+>>>>>>> 335ad01d81f5a744b6d4308a23f507cd5b2ce367
+>>>>>>> 4f120d0d0817fc82318b722096302ff098046f10
+>>>>>>> 19e9958cfcfdb6c1eb92bac2273578d778037a65
+>>>>>>> e082b65c4a0b5186710aaf810fcc38dcb64cdaff
+>>>>>>> 92237164ad59d75438ce5e2d51379d249070838e
+>>>>>>> 70964d116034eae30ff77943349d973bc3d874d0
+>>>>>>> 4da91b31094f2998c841b08f038a0ccb6d443113
+>>>>>>> 9fb6a0940a2a1f1a99165fe2e4bae2c45afeb6ab
+>>>>>>> 8e7f22444f7593efe60b40b30936638659f7f31a
+>>>>>>> 4090f8fc2ce911f275d078ddd53a75e1f3667ad9
+>>>>>>> f638018a3f94d93ac07eba48aeca7e5e6a7c8b7f
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
