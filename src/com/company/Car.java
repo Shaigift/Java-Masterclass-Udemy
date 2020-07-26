@@ -1,5 +1,6 @@
 package com.company;
 
+<<<<<<< HEAD
 public class Car extends Vehicle {
 
     private int wheels;
@@ -28,4 +29,27 @@ public class Car extends Vehicle {
         move(speed, direction);
     }
 
+=======
+public class Car {
+
+    private int doors;
+    private int wheels;
+    public String model;
+    private String engine;
+    private String colour;
+
+    public void setModel(String model) {
+        String validModel = model.toLowerCase();
+        if(validModel.equals("carrera") || validModel.equals("commodore")){
+            this.model = model;
+        } else {
+            this.model = "Unknown";
+        }
+
+    }
+
+    public String getModel() {
+        return this.model;
+    }
+>>>>>>> 999419fa2cb8450bbadedbaad91efdda286b4d76
 }
