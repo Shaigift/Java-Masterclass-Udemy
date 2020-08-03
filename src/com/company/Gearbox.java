@@ -1,5 +1,6 @@
 package com.company;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 
 public class Gearbox {
@@ -63,5 +64,16 @@ public class Gearbox {
         public int getRatio() {
             return getRatio();
         }
+=======
+/**
+ * Created by dev on 27/09/15.
+ */
+public class Gearbox {
+
+    private boolean clutchIsIn;
+
+    public void operateClutch(boolean inOrOut) {
+        this.clutchIsIn = inOrOut;
+>>>>>>> 10de47f01c5c1929a2a1a867de2f972925bda3b7
     }
 }
