@@ -20,13 +20,18 @@ public class MyLinkedList implements NodeList {
 
     @Override
     public boolean addItem(ListItem newItem) {
+<<<<<<< HEAD
         if (this.root == null) {
+=======
+        if(this.root == null) {
+>>>>>>> 264b5414781ee9cdd49af5a22601d7016f78d06f
             // The list was empty, so this item becomes the head of the list
             this.root = newItem;
             return true;
         }
 
         ListItem currentItem = this.root;
+<<<<<<< HEAD
         while (currentItem != null) {
             int comparison = (currentItem.compareTo(newItem));
             if (comparison < 0) {
@@ -46,6 +51,31 @@ public class MyLinkedList implements NodeList {
                 } else {
                     // the node with a previous is the root
                     newItem.setNext(this.root).setPrevious(newItem);
+=======
+        while(currentItem != null) {
+            int comparison = (currentItem.compareTo(newItem));
+            if(comparison <0) {
+                // newItem is greater, move right if possible
+                if(currentItem.next() != null) {
+                    currentItem = currentItem.next();
+                } else {
+                    // there is no next, so insert at end of list
+                    currentItem.setNext(newItem);
+                    newItem.setPrevious(currentItem);
+                    return true;
+                }
+            } else if(comparison >0) {
+                // newItem is less, insert before
+                if(currentItem.previous() != null) {
+                    currentItem.previous().setNext(newItem);
+                    newItem.setPrevious(currentItem.previous());
+                    newItem.setNext(currentItem);
+                    currentItem.setPrevious(newItem);
+                } else {
+                    // the node with a previous is the root
+                    newItem.setNext(this.root);
+                    this.root.setPrevious(newItem);
+>>>>>>> 264b5414781ee9cdd49af5a22601d7016f78d06f
                     this.root = newItem;
                 }
                 return true;
@@ -61,6 +91,7 @@ public class MyLinkedList implements NodeList {
 
     @Override
     public boolean removeItem(ListItem item) {
+<<<<<<< HEAD
         if (item != null) {
             System.out.println("Deleting item " + item.getValue());
         }
@@ -90,11 +121,14 @@ public class MyLinkedList implements NodeList {
 
         // We have reached the end of the list
         // Without finding the item to delete
+=======
+>>>>>>> 264b5414781ee9cdd49af5a22601d7016f78d06f
         return false;
     }
 
     @Override
     public void traverse(ListItem root) {
+<<<<<<< HEAD
         if (root == null) {
             System.out.println("The list is empty");
         } else {
@@ -103,5 +137,8 @@ public class MyLinkedList implements NodeList {
                 root = root.next();
             }
         }
+=======
+
+>>>>>>> 264b5414781ee9cdd49af5a22601d7016f78d06f
     }
 }
