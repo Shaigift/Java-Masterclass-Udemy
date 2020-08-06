@@ -2,7 +2,223 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/AdventureChallenge.iml" filepath="$PROJECT_DIR$/AdventureChallenge.iml" />
     </modules>
   </component>
 </project>
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/untitled104.iml" filepath="$PROJECT_DIR$/untitled104.iml" />
+    </modules>
+  </component>
+</project>
+
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Collectionthree.iml" filepath="$PROJECT_DIR$/Collectionthree.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/CollectionsTwoUpdate.iml" filepath="$PROJECT_DIR$/CollectionsTwoUpdate.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Collections.iml" filepath="$PROJECT_DIR$/Collections.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Static.iml" filepath="$PROJECT_DIR$/Static.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/ScopeChallenge.iml" filepath="$PROJECT_DIR$/ScopeChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Scope.iml" filepath="$PROJECT_DIR$/Scope.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/WindDemo.iml" filepath="$PROJECT_DIR$/WindDemo.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Generics Part 2.iml" filepath="$PROJECT_DIR$/Generics Part 2.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Generics.iml" filepath="$PROJECT_DIR$/Generics.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Asbtract Class Challenge Part 2.iml" filepath="$PROJECT_DIR$/Asbtract Class Challenge Part 2.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Abstract Class Challenge Part 1.iml" filepath="$PROJECT_DIR$/Abstract Class Challenge Part 1.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/InterfacesChallenge.iml" filepath="$PROJECT_DIR$/InterfacesChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/InnerClassesChallenge.iml" filepath="$PROJECT_DIR$/InnerClassesChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/InnerClasses.iml" filepath="$PROJECT_DIR$/InnerClasses.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/InterfaceChallenge.iml" filepath="$PROJECT_DIR$/InterfaceChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/LinkedListChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/AutoBoxingChallenge.iml" filepath="$PROJECT_DIR$/AutoBoxingChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/ArrayListChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/ListAndArrayList.iml" filepath="$PROJECT_DIR$/ListAndArrayList.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/ReferencesVsValueTypes.iml" filepath="$PROJECT_DIR$/ReferencesVsValueTypes.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/ArrayChallenge.iml" filepath="$PROJECT_DIR$/ArrayChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Array.iml" filepath="$PROJECT_DIR$/Array.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/LinkedList Challenge.iml" filepath="$PROJECT_DIR$/LinkedList Challenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/PoloymorphismChallenge.iml" filepath="$PROJECT_DIR$/PoloymorphismChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism2.iml" filepath="$PROJECT_DIR$/Polymorphism2.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/EncapsulationChallenge.iml" filepath="$PROJECT_DIR$/EncapsulationChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Composition.iml" filepath="$PROJECT_DIR$/Composition.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/InheritanceChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Constructors.iml" filepath="$PROJECT_DIR$/Constructors.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Classes.iml" filepath="$PROJECT_DIR$/Classes.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/MinAndMaxInputChallenge.iml" filepath="$PROJECT_DIR$/MinAndMaxInputChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInputChallenge.iml" filepath="$PROJECT_DIR$/ReadingUserInputChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/UserInput.iml" filepath="$PROJECT_DIR$/UserInput.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/ParsingValuesFromString.iml" filepath="$PROJECT_DIR$/ParsingValuesFromString.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/DigitAddChallenge.iml" filepath="$PROJECT_DIR$/DigitAddChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/SumOdd.iml" filepath="$PROJECT_DIR$/SumOdd.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Sum3And5Challenge.iml" filepath="$PROJECT_DIR$/Sum3And5Challenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Switch.iml" filepath="$PROJECT_DIR$/Switch.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/SecondsAndMinutesChallenge.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/S&amp;MChallenge.iml" filepath="$PROJECT_DIR$/S&amp;MChallenge.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Abbreviating Operators/Abbreviating Operators.iml" filepath="$PROJECT_DIR$/Abbreviating Operators/Abbreviating Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment Operator VS Equals to Operator/Assignment Operator VS Equals to Operator.iml" filepath="$PROJECT_DIR$/Assignment Operator VS Equals to Operator/Assignment Operator VS Equals to Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Float&amp;Double/Float&amp;Double.iml" filepath="$PROJECT_DIR$/Float&amp;Double/Float&amp;Double.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Floating Point Precision &amp; a Challenge/Floating Point Precision &amp; a Challenge.iml" filepath="$PROJECT_DIR$/Floating Point Precision &amp; a Challenge/Floating Point Precision &amp; a Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Master Class Remaster.iml" filepath="$PROJECT_DIR$/.idea/Java Master Class Remaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logical OR Operator/Logical OR Operator.iml" filepath="$PROJECT_DIR$/Logical OR Operator/Logical OR Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logical and Operator/Logical and Operator.iml" filepath="$PROJECT_DIR$/Logical and Operator/Logical and Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operator Precedence and Operator Challenge/Operator Precedence and Operator Challenge.iml" filepath="$PROJECT_DIR$/Operator Precedence and Operator Challenge/Operator Precedence and Operator Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators, Operands &amp; Expressions/Operators, Operands &amp; Expressions.iml" filepath="$PROJECT_DIR$/Operators, Operands &amp; Expressions/Operators, Operands &amp; Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitive Type/Primitive Type.iml" filepath="$PROJECT_DIR$/Primitive Type/Primitive Type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitive Types Recap and the String Data Type/Primitive Types Recap and the String Data Type.iml" filepath="$PROJECT_DIR$/Primitive Types Recap and the String Data Type/Primitive Types Recap and the String Data Type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveTypeChallenge/PrimitiveTypeChallenge.iml" filepath="$PROJECT_DIR$/PrimitiveTypeChallenge/PrimitiveTypeChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" filepath="$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The char &amp; boolean Primitive Data Types/The char &amp; boolean Primitive Data Types.iml" filepath="$PROJECT_DIR$/The char &amp; boolean Primitive Data Types/The char &amp; boolean Primitive Data Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if-then Statement/if-then Statement.iml" filepath="$PROJECT_DIR$/if-then Statement/if-then Statement.iml" />
+>>>>>>> 1f6953fe1eb41b85952dad71039fd2a21990c973
+>>>>>>> 5bf23e9e0e603a2e80711b663583f9d2c5dc9759
+>>>>>>> 050918491e1dab8ef914dd475806956c3fde8da6
+>>>>>>> 335ad01d81f5a744b6d4308a23f507cd5b2ce367
+>>>>>>> 4f120d0d0817fc82318b722096302ff098046f10
+>>>>>>> 19e9958cfcfdb6c1eb92bac2273578d778037a65
+>>>>>>> e082b65c4a0b5186710aaf810fcc38dcb64cdaff
+>>>>>>> 92237164ad59d75438ce5e2d51379d249070838e
+>>>>>>> 70964d116034eae30ff77943349d973bc3d874d0
+>>>>>>> 4da91b31094f2998c841b08f038a0ccb6d443113
+>>>>>>> 9fb6a0940a2a1f1a99165fe2e4bae2c45afeb6ab
+>>>>>>> 8e7f22444f7593efe60b40b30936638659f7f31a
+>>>>>>> 4090f8fc2ce911f275d078ddd53a75e1f3667ad9
+>>>>>>> f638018a3f94d93ac07eba48aeca7e5e6a7c8b7f
+>>>>>>> 999419fa2cb8450bbadedbaad91efdda286b4d76
+>>>>>>> b12daa1a24950adb009587a54d481cc51e628fc1
+>>>>>>> 3f1d8c014fd2ad75da40af6369251915ae42e380
+>>>>>>> cbf29b0cccfe4d1ced6f9b4500fbcf5707ec40cb
+>>>>>>> a1eaf105e28252ca7e333ca6197164939cb57f37
+>>>>>>> 1a695c9238b0a0f9f6b08b23c11faf500a27caf7
+>>>>>>> be91a48f3b1f227104592450d115f20b582398aa
+>>>>>>> cf65a9d0661a0c9d40de0388355cc373c88b4846
+>>>>>>> fd853c07fa9b3e82973b3b504f463fbdd878c1ee
+>>>>>>> baa225ea470c2f8af8b45d56ac8512a708c90b72
+>>>>>>> 5af2aedd2a6729cfbaea7d1ef67641de27ce4caf
+>>>>>>> 31d95c1030c95f74dc0ec7a02271dccca86ebbaf
+>>>>>>> 70c704a0b66936a295b3cebe6577a716372d1983
+>>>>>>> 926a7ab4f9e90c5eda170761301025020f6c0a40
+>>>>>>> 400e446dd0d330095806e0e7eb71b4a89950dd6c
+>>>>>>> 81b94affca24dc056e18d916c16a28ab249d0672
+>>>>>>> 587eb191e9b599181ca5455e7abd85f337f90ecf
+>>>>>>> 29cdb74cc1866fc209e15541b5d921e95300eab4
+>>>>>>> 10de47f01c5c1929a2a1a867de2f972925bda3b7
+>>>>>>> 77eef9825aecd69e91c73a9927b0d7f82405ee91
+>>>>>>> e3847987595f08bca2b732cb6b4a9c7419141e9b
+>>>>>>> 3653a9c57b120858a24482dc611b263f85ff18d3
+>>>>>>> 264b5414781ee9cdd49af5a22601d7016f78d06f
+>>>>>>> ae01fbb39b617e4545faccbffef9191b2377d066
+>>>>>>> a98d9e3d0b68b1aa64fdcb4002df7e7b5b2c81e1
+>>>>>>> b74315b9ac8f8cbde99737d23528d4598802ce8c
+>>>>>>> ce8851b55d202ded2811adc956a92bb7237745a7
+>>>>>>> 0aa23adcb52f49557ed03254033c794c32b5bef5
+>>>>>>> 5158b80179052d6c5a3b7fbf0dad6475b478d1b4
+>>>>>>> 467f255082dc6ef098c09ae0678003e6ee1639fa
+>>>>>>> 016818d563eaab963a1b60052540f330e1c4678c
+>>>>>>> 66e7a8cee7dc500550ab84e2cd777b71499168f2
+    </modules>
+  </component>
+</project>
+>>>>>>> b4fa11e90948dc6ada57dc8968ff68f56138a182
+>>>>>>> 6d4d8ecd26338b5bef3ba751627fdbd8b659e216

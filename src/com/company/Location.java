@@ -15,7 +15,10 @@ public class Location {
         this.locationID = locationID;
         this.description = description;
         this.exits = new HashMap<String, Integer>();
+<<<<<<< HEAD
         this.exits.put("Q", 0);
+=======
+>>>>>>> 6d4d8ecd26338b5bef3ba751627fdbd8b659e216
     }
 
     public void addExit(String direction, int location) {
