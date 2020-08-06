@@ -26,6 +26,7 @@ public class Theatre {
     }
 
     public boolean reserveSeat(String seatNumber) {
+<<<<<<< HEAD
         int low = 0;
         int high = seats.size()-1;
 
@@ -45,6 +46,22 @@ public class Theatre {
         }
         System.out.println("There is no seat " + seatNumber);
         return false;
+=======
+        Seat requestedSeat = null;
+        for(Seat seat : seats) {
+            if(seat.getSeatNumber().equals(seatNumber)) {
+                requestedSeat = seat;
+                break;
+            }
+        }
+
+        if(requestedSeat == null) {
+            System.out.println("There is no seat " + seatNumber);
+            return false;
+        }
+
+        return requestedSeat.reserve();
+>>>>>>> 016818d563eaab963a1b60052540f330e1c4678c
     }
 
     // for testing
@@ -54,7 +71,11 @@ public class Theatre {
         }
     }
 
+<<<<<<< HEAD
     private class Seat implements Comparable<Seat> {
+=======
+    private class Seat {
+>>>>>>> 016818d563eaab963a1b60052540f330e1c4678c
         private final String seatNumber;
         private boolean reserved = false;
 
@@ -62,11 +83,14 @@ public class Theatre {
             this.seatNumber = seatNumber;
         }
 
+<<<<<<< HEAD
         @Override
         public int compareTo(Seat seat) {
             return this.seatNumber.compareToIgnoreCase(seat.getSeatNumber());
         }
 
+=======
+>>>>>>> 016818d563eaab963a1b60052540f330e1c4678c
         public boolean reserve() {
             if(!this.reserved) {
                 this.reserved = true;
